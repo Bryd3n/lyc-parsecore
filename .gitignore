@@ -1,0 +1,20 @@
+﻿# Binaries and object files
+*.exe
+*.o
+*.obj
+*.out
+*.app
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.class
+.venv/
+venv/
+env/
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
