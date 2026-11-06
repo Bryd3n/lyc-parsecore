@@ -1,0 +1,21 @@
+========================================================================
+  COMPARATIVA MULTILENGUAJE DE RENDIMIENTO (C vs Python)
+  Ejercicio 1: Validacion de Movimientos de Caballo (Ajedrez 8x8)
+  Estudiante: Brayan Carreno (C.I. V-32.015.527) - Grupo ParseCore
+========================================================================
+
+Parametro de prueba: n = 100 movimientos de caballo legales.
+
+Resultados de Ejecucion:
+  - Lenguaje C      : 2.413 microsegundos (0.002413 ms)
+  - Lenguaje Python : 36.730 microsegundos (0.036730 ms)
+
+Analisis Comparativo:
+  - Factor de aceleracion (Speedup C / Python): ~15.2x mas rapido en C.
+  - C aprovecha tokenizacion en memoria estatica/pila y operaciones
+    a nivel de registros de CPU, evitando el overhead del interprete
+    CPython y la creacion dinamica de objetos String.
+
+Prueba de 500 movimientos (10 repeticiones consecutivas en C):
+  - Tiempo total: 0.1260 ms
+  - Tiempo promedio: 0.0126 ms
