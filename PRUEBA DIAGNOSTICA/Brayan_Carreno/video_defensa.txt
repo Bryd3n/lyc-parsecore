@@ -1,9 +1,13 @@
 # Enlace al Video de Defensa de la Prueba Diagnóstica (Google Drive)
 # Asignatura: Lenguajes y Compiladores (Lapso 2026-II) - UNEG
-# Docente: Msc. Félix Márquez
+# Docente: Msc. Félix Márquez (lyc_fmarquez@e.uneg.edu.ve)
 # Estudiante: Brayan Carreño
 # C.I.: V-32.015.527 | Sección 01
 # Grupo: ParseCore - "Estructurando la sintaxis, optimizando la ejecución."
-# Archivo: Defensa_Prueba_Diagnostica_Brayan_Carreno.mov
+# Archivo de Video: Defensa_Final.mp4 (Formato MP4, 1080p Horizontal)
 
-https://drive.google.com/file/d/1rGaBEN67CcF_-Un_6zl9nbSJwhQSnzYf/view?usp=sharing
+Enlace Oficial de Google Drive (Acceso con enlace):
+https://drive.google.com/file/d/1h1JLflbN69CYionIhRsMCR6KA0gvWcza/view?usp=sharing
+
+Enlace alternativo a la carpeta de entrega en Google Drive:
+https://drive.google.com/drive/folders/1nqdkSzvubGt9sc1WqPF2gmzGRf6CwoVn?usp=sharing
