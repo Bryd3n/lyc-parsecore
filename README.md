@@ -8,7 +8,7 @@ Repositorio oficial del equipo **ParseCore** para la asignatura **Lenguajes y Co
 
 ## Información del Equipo
 
-* **Docente:** Msc. Félix Márquez (`lyc_fmarquez@e.uneg.edu.ve`)
+* **Docente:** Msc. Félix Márquez (`lyc.fmarquez@e.uneg.edu.ve`)
 * **Período Lectivo:** 2026-II
 * **Líder de Grupo:** Brayan Carreño
 
