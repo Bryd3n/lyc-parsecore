@@ -8,11 +8,11 @@ Parametro evaluado: Generacion completa de la fila n = 100 del Triangulo de Pasc
 con asignacion y liberacion dinamica de memoria en cada iteracion.
 
 Resultados de Ejecucion:
-  - Lenguaje C      : 245.403 microsegundos (0.245403 ms)
+  - Lenguaje C      : 164.396 microsegundos (0.164396 ms)
   - Lenguaje Python : 194.370 microsegundos (0.194370 ms)
 
 Analisis Tecnico:
-  - Speedup (Aceleracion C / Python): ~0.8x mas veloz en C.
+  - Speedup (Aceleracion C / Python): ~1.2x mas veloz en C.
   - En C se gestiona la memoria dinamica de forma manual mediante malloc/free
     y aritmética de punteros contiguos, eliminando la sobrecarga de
     recoleccion de basura (Garbage Collector) y punteros PyObject de CPython.
