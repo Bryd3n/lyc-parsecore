@@ -19,7 +19,7 @@ Repositorio oficial del equipo **ParseCore** para la asignatura **Lenguajes y Co
 | **Brayan Carreño** | V-32.015.527 | 01 | Líder de Grupo |
 | **Eliseo Meneses** | V-31.809.899 | 03 | Desarrollador |
 | **Luis Rojas** | V-30.931.891 | 01 | Desarrollador |
-| **Paola Peña** | V-31.152.816 | 01 | Desarrolladora |
+| **Paola Peña** | V-31.152.816 | 03 | Desarrolladora |
 
 ---
 
