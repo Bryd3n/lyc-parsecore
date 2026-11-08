@@ -4,7 +4,7 @@
 # Estudiante: Brayan Carreño
 # C.I.: V-32.015.527 | Sección 01
 # Grupo: ParseCore - "Estructurando la sintaxis, optimizando la ejecución."
-# Archivo de Video: Defensa_Final.mp4 (Formato MP4, 1080p Horizontal)
+# Archivo de Video: Defensa_Final.mp4 (Formato MP4, 1080p Horizontal, Duración: 04:55 min)
 
 Enlace Oficial de Google Drive (Acceso con enlace):
 https://drive.google.com/file/d/1h1JLflbN69CYionIhRsMCR6KA0gvWcza/view?usp=sharing
