@@ -107,17 +107,19 @@ int main() {
     // Liberar la memoria dinámica una vez finalizado su uso
     free(coeficientes);
 
-    // Prueba de rendimiento solicitada para n=100
-    printf("\n--- PRUEBA DE RENDIMIENTO EN C (n=100) ---\n");
+    // Prueba de rendimiento solicitada para n=100 (con 10,000 iteraciones para ver decimales reales)
+    printf("\n--- PRUEBA DE RENDIMIENTO EN C (n=100 x 10000 iteraciones) ---\n");
     clock_t inicio = clock();
     
-    double* coef_100 = generar_coeficientes(100);
+    for (int rep = 0; rep < 10000; rep++) {
+        double* coef_100 = generar_coeficientes(100);
+        free(coef_100);
+    }
     
     clock_t fin = clock();
     double tiempo = (double)(fin - inicio) / CLOCKS_PER_SEC;
     
-    printf("Generacion de coeficientes para n=100 completada en %f segundos.\n", tiempo);
-    free(coef_100);
+    printf("Tiempo total para 10,000 ejecuciones de n=100: %f segundos.\n", tiempo);
 
     return 0;
 }
